@@ -8,6 +8,12 @@ En l'occurrence, il s'appuie sur des règles d'expression régulière visant à 
 
 Il génère également une carte des fins de communes les plus caractéristiques sous la forme d'un nuage de mots.
 
+Articles associés :
+
+https://datagistips.hypotheses.org/86
+
+https://shsoutsiders.wordpress.com/2021/02/05/un-nuage-des-sons-regionaux/
+
 ![](img/france.png)
 
 ![](img/extrait.jpeg)
